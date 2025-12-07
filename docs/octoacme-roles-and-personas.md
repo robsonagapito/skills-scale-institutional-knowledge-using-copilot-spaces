@@ -148,3 +148,13 @@ Facilitates requirements discovery, process mapping, and success metrics definit
 ### Interaction
 Collaborates with Product Manager, Project Manager, and stakeholders.
 
+octoacme-roles-and-personas.md
+
+# Role Onboarding & Handoff Checklist
+
+- [ ] Role and responsibilities documented
+- [ ] Access to relevant tools and repos granted
+- [ ] Introduced to communication channels (standups, syncs, etc.)
+- [ ] Handover brief delivered to successor
+- [ ] Updated process documents as needed
+- [ ] Key stakeholders notified
