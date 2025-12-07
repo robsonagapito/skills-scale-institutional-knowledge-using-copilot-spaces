@@ -75,7 +75,76 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+## Release Manager
+
+### Role Summary
+Coordinates and oversees release planning and deployment, ensuring readiness and completion of pre-release checklists.
+
+### Responsibilities
+- Plan release windows and communicate schedules.
+- Verify pre-release requirements with PM, QA, and Devs.
+- Coordinate rollbacks/incidents with support and stakeholders.
+
+### Interaction
+Works closely with Project Managers and QA, announces releases to stakeholders.
+
+---
+
+## QA Automation Engineer
+
+### Role Summary
+Designs and maintains automated test suites; consults on test strategy for CI/CD.
+
+### Responsibilities
+- Build and maintain automated test coverage.
+- Collaborate with Developers, QA, and Release Manager.
+- Integrate checks and gates for CI pipelines.
+
+### Interaction
+Partners with Developers and QA.
+
+---
+
+## UX Designer
+
+### Role Summary
+Manages user-centered design, wireframes/prototypes, gathers feedback.
+
+### Responsibilities
+- Deliver wireframes, user flows, interactive prototypes.
+- Run UX reviews and usability tests.
+- Gather feedback from stakeholders and users.
+
+### Interaction
+Collaborates with Product Managers and Developers, reports findings to PM.
+
+---
+
+## Support Lead
+
+### Role Summary
+Handles support tickets, coordinates bug triage, and consolidates feedback from end users.
+
+### Responsibilities
+- Track and escalate operational issues.
+- Share user feedback with Product and Engineering.
+- Own escalation paths for critical incidents.
+
+### Interaction
+Works with the Project Manager and Product Manager post-release.
+
+---
+
+## Business Analyst
+
+### Role Summary
+Facilitates requirements discovery, process mapping, and success metrics definition.
+
+### Responsibilities
+- Create and refine requirements docs and diagrams.
+- Support PM in data analysis and reporting.
+- Gather business/process insights.
+
+### Interaction
+Collaborates with Product Manager, Project Manager, and stakeholders.
 
